@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/tmelnychenko/blog-preview-card)
-- Live Site URL: [GitHub Pages - QR code component](https://tmelnychenko.github.io/blog-preview-card)
+- Live Site URL: [GitHub Pages - Blog Preview Card](https://tmelnychenko.github.io/blog-preview-card)
 
 ## My process
 
