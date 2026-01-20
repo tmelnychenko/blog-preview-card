@@ -19,20 +19,22 @@ body {
 .container {
     display: flex;
     flex-direction: column;
-    height: 100vh; /* Full viewport height */
-    width: 100vw; /* Full viewport width */
+    height: 100vh;
+    /* Full viewport height */
+    width: 100vw;
+    /* Full viewport width */
     justify-content: center;
     align-items: center;
 }
 
 .blog-preview-card {
     background-color: var(--white-color);
-    border-radius: 1.25em;
+    border-radius: 1.25rem;
     border: 1px solid var(--secondary-color);
-    box-shadow: 0.5em 0.5em;
-    padding: 1.5em;
+    box-shadow: 0.5rem 0.5rem;
+    padding: 1.5rem;
     width: 87%;
-    max-width: 384px;
+    max-width: 24rem;
     box-sizing: border-box;
 }
 
@@ -42,25 +44,25 @@ svg {
 }
 
 header {
-    margin: 1.5em 0;
-        line-height: 150%;
+    margin: 1.5rem 0;
+    line-height: 150%;
 }
 
 .category {
     background-color: var(--primary-color);
-    padding: 0.25em 1.75em;
-    border-radius: 0.24em;
+    padding: 0.25rem 1.75rem;
+    border-radius: 0.24rem;
     width: 20%;
     text-align: left;
 }
 
 .publish-date {
-    font-size: 0.75em;
-    margin: 1.25em 0;
+    font-size: 0.75rem;
+    margin: 1.25rem 0;
 }
 
 h1 {
-    font-size: 1.25em;
+    font-size: 1.25rem;
 }
 
 h1:hover {
@@ -70,14 +72,14 @@ h1:hover {
 
 .description {
     color: var(--article-color);
-    font-size: 14px;
+    font-size: 0.875rem;
 }
 
 footer {
     display: flex;
     align-items: center;
     justify-content: start;
-    gap: 0.75em;
+    gap: 0.75rem;
 }
 
 .author-name {
